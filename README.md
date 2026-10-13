@@ -1,2 +1,3 @@
-# automatic-guacamole
+# 자동 과카몰리
+
 에효 바보
